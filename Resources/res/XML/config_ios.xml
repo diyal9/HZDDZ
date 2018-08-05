@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+    
+<key>sp</key><!--sp号  8302, 910-->
+<string>5148</string>
+<key>op</key><!-- op号 20-->
+<string>11</string>
+
+<key>game_id</key><!--游戏标识  -->
+<string>1001</string>
+<key>sign_id</key><!-- 签到标识 -->
+<string>10090001</string>
+<key>game_moduleid</key><!-- 游戏模块，单游=gameID，合集3xxx表示 -->
+<string>1001</string>
+<key>game_language</key><!--语言 0-未知 1-简体 2-繁体 3-英文  -->
+<string>1</string>
+<key>game_hallid</key><!-- 大厅标识 -->
+<string>1001411</string>
+<key>play_type_id</key><!-- 玩法的id -->
+<string>4</string>
+<key>game_version</key><!--游戏版本号  -->
+<string>3.4.37</string>
+<key>game_model</key><!--机型  -->
+<string>ADVGA</string>
+<key>game_region</key><!--地域 0-未知 1-大陆 2-香港、澳门 3-台湾  -->
+<string>1</string>
+<key>size_image</key><!--请求哪种尺寸图片,定义与RequestMedia消息中的相同 0 不获取WaWa秀图片 1 尺寸1(小) 2 尺寸2(中) 3 尺寸3(大)  -->
+<string>4</string>
+<key>is_binding_mac</key><!-- 1-绑定mac地址  0-不绑定mac地址 -->
+<string>1</string>
+<key>user_type</key><!--用户类型  -->
+<string>1</string>
+<key>user_sex</key><!-- 性别   1-男     2-女 -->
+<string>1</string>
+<key>charge_menu_id</key><!-- 不填写或者＝0取充值根菜单,充值蛙币根菜单12,蛙豆根菜单13,银子根菜单16,金子根菜单4,水晶根菜单5,筹码根菜单7,单机元宝根菜单60，单机银豆根菜单61 -->
+<string>13</string>
+<key>charge_bean_type</key>
+<string>6</string>
+</dict>
+
+</plist>

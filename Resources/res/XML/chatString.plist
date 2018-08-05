@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>urge</key>
+	<array>
+		<string>我等到花儿都谢了！</string>
+	</array>
+	<key>happy</key>
+	<array>
+		<string>和你合作真是太愉快了！</string>
+		<string>今儿天也好，有日子没这么好天了，呵呵嘿嘿！</string>
+		<string>本当にうれしかったです！</string>
+	</array>
+	<key>rage</key>
+	<array>
+		<string>长这么磕碜，你好意思！</string>
+	</array>
+	<key>Dalliance</key>
+	<array>
+		<string>小妹，你真是条汉子！</string>
+	</array>
+</dict>
+</plist>

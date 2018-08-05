@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<dict>
+		<key>cocos2d.kechu.display_fps</key> <!-- 是否显示fps -->
+		<true/>
+		<key>cocos2d.kechu.fps</key><!-- fps的值 -->
+		<integer>25</integer>
+		<key>cocos2d.kechu.autotest</key> <!-- 是否执行自动化测试 -->
+		<true/>
+		<key>cocos2d.kechu.debugmode</key><!-- 自动化测试模式(0：正常 1：大厅测试 2：依据游戏后退到大厅 3、重复游戏) -->
+		<integer>3</integer>
+
+		<key>cocos2d.kechu.writelog</key> <!-- 是否开启文件日志 -->
+		<true/>
+		<key>cocos2d.kechu.logfilename</key> <!-- 日志文件名称 -->
+		<string>KeChuDDZ</string>
+		<key>cocos2d.kechu.loglevel</key> <!-- 日志级别 0: None 1:Debug 2:Info 3:Waring 4:Error 5:Net -->
+		<integer>1</integer>
+		
+		<key>cocos2d.kechu.gameversion</key><!--游戏版本号  -->
+        <string>1.0.0 alpha</string>
+		
+		<key>game_language</key><!--语言 0-未知 1-中文简体 2-繁体 3-英文  -->
+        <string>1</string>
+		
+		<key>cocos2d.kechu.socketip</key><!-- SocketIpAdress -->
+        <string>socket://192.168.10.159:5310</string>
+		<key>cocos2d.kechu.socketip</key><!-- SocketIpAdress -->
+        <string>socket://192.168.10.159:5310</string>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+	</dict>
+</dict>
+</plist>

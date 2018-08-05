@@ -1,0 +1,773 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\BaseCore">
+      <UniqueIdentifier>{05c6735a-0472-488d-90c5-d08d50b10def}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\BaseCore\WWBSocketCore">
+      <UniqueIdentifier>{ed51c2dc-e1bf-413d-9ff6-48af7aae1b16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View">
+      <UniqueIdentifier>{bd0b4efd-91b8-4d1e-8a37-9d2bcc9ff3dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Control">
+      <UniqueIdentifier>{57dd43af-b696-43f2-b3e4-7403b59c6d3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Model">
+      <UniqueIdentifier>{b4c085ef-ca0c-4c80-b4c5-e1085f682d83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Control\WWWorkManager">
+      <UniqueIdentifier>{159bf573-6b38-400d-b506-1528989bb961}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Model\WWDataModel">
+      <UniqueIdentifier>{d8122e7d-5ae1-419d-8934-ef5bf22b6a77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Model\WWFilter">
+      <UniqueIdentifier>{b50e8bd2-7879-4479-bd8a-60cdfd964171}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\BaseCore\Common">
+      <UniqueIdentifier>{71ff6d04-77e7-4d08-a0b3-0c8fb524697d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Control\WWRequest">
+      <UniqueIdentifier>{0d5f7494-12c1-41dc-a163-7cbf506ed307}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\BaseCore\WWNetDataBasic">
+      <UniqueIdentifier>{1851371e-1b25-4827-a6c5-2e910dc07d5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\BaseCore\WWBGUI">
+      <UniqueIdentifier>{ae089ee3-1c41-4e26-8933-b48d2e1715a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Control\WWCDBManager">
+      <UniqueIdentifier>{0ca62588-75d4-41e8-85fc-9c6181361bf8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Control\WWCSound">
+      <UniqueIdentifier>{1cb2139f-8654-42f0-97e2-f0e482b23377}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\BaseCore\WWBTools">
+      <UniqueIdentifier>{9275c037-32bd-414f-b31f-4b7a9e1c1079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\BaseCore\WWBLog">
+      <UniqueIdentifier>{e6fe5c65-c0c6-4761-9c7a-6aa7746e00cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Model\WWDataModel\CommonMessageData">
+      <UniqueIdentifier>{e82b1bfb-8afc-4852-ad6d-410e14da4c58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Model\WWDataModel\WWUserData">
+      <UniqueIdentifier>{3edeee00-b5a6-4d5f-9f55-275ca0fda831}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Model\WWDataModel\WWGD">
+      <UniqueIdentifier>{55ec665d-3834-4e32-9e4f-8888a5fa4fa8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Model\WWDataModel\WWLeaderboardData">
+      <UniqueIdentifier>{4fe2c71c-94c0-4e48-8f07-08a850b3ecba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Model\WWDataModel\WWEquipData">
+      <UniqueIdentifier>{2dbfe6ad-a978-4728-851c-8a8169a2d9a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Control\WWXMLUnicodeManager">
+      <UniqueIdentifier>{5f55f52a-09e6-4793-80b3-3863a1c3dff5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\LobbyScene">
+      <UniqueIdentifier>{82130dc7-e2e6-4896-8b81-97a69d206f54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\LobbyScene\Layer">
+      <UniqueIdentifier>{7b67b702-da5f-408c-b8de-08b43e57edb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\LoginScene">
+      <UniqueIdentifier>{72222e6c-07fc-468c-bc50-01c77923838d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\BaseCore\WWBI18N">
+      <UniqueIdentifier>{2a1ef11c-ad26-4474-a2d8-b242ea1bf7c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\Common">
+      <UniqueIdentifier>{79288cb0-ac80-47d5-b151-b96704f603b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\Common\SetLayer">
+      <UniqueIdentifier>{be62cfc4-b6c2-405a-ac6a-96d3fda6c535}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\GameScene">
+      <UniqueIdentifier>{61000c85-0e5a-45d2-bee7-3b942f2d1938}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\GameScene\Layer">
+      <UniqueIdentifier>{f5e51dd0-2f57-4ca9-aea2-d5897421f240}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\BaseCore\WWEffectBase">
+      <UniqueIdentifier>{1c8492b2-dd52-4e3d-9892-de8b5aee7629}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Control\WWDataManager">
+      <UniqueIdentifier>{e710a920-366a-4ff7-84fe-ee75f970f620}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Model\WWDataModel\WWGameData">
+      <UniqueIdentifier>{28eaf00c-764d-4b7b-8999-740ec33ff94d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\Common\CardSprite">
+      <UniqueIdentifier>{ef06e606-b5b8-45c0-a12f-e29b843e0213}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\Common\ChargeLayer">
+      <UniqueIdentifier>{edb44129-b5a9-4669-bdbd-91443051b31b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\Common\ChatLayer">
+      <UniqueIdentifier>{39c80d79-a572-41d6-83c9-d9208e52e938}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\Common\CommLayer">
+      <UniqueIdentifier>{cf508260-e9f7-4d7b-800b-ea1357cbd14a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\Common\PokerLogic">
+      <UniqueIdentifier>{743ebcc8-fa54-46d8-8ebb-fd3e1e8221d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\Common\UserInfoLayer">
+      <UniqueIdentifier>{144e5d20-3030-4d5c-978f-fe0005363b64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\GameScene\Animation">
+      <UniqueIdentifier>{748922a5-010d-42c3-84e9-9e8e50172d93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\GameScene\Component">
+      <UniqueIdentifier>{03431557-3699-4487-aa59-960814833ec0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\GameScene\GameOver">
+      <UniqueIdentifier>{8c0b3ff9-4a10-47c7-8d3a-d423da875a33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\LoginScene\Layer">
+      <UniqueIdentifier>{4d5c1dc6-31c9-4f2c-9576-ec1be19f8d55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ThirdPlatform">
+      <UniqueIdentifier>{60f8befa-0d97-4b0f-b423-aa9d21cbaa7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\AutoTest">
+      <UniqueIdentifier>{3e7390c3-7b54-449e-8cd2-330fe26245bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\EffectView">
+      <UniqueIdentifier>{724f8e99-f63c-4505-8d0b-1282eb6ae4e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\Common\PropShop">
+      <UniqueIdentifier>{7c200388-3348-4790-8b83-9879dbf9f586}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BaseCore\WWBSocketCore\WWBSocketClient.cpp">
+      <Filter>src\BaseCore\WWBSocketCore</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Control\WWWorkManager\WWNetWorkManager.cpp">
+      <Filter>src\Control\WWWorkManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BaseCore\Common\FactoryTools.cpp">
+      <Filter>src\BaseCore\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Control\WWRequest\MsgLogonRequest.cpp">
+      <Filter>src\Control\WWRequest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BaseCore\WWNetDataBasic\WWIMsgFilter.cpp">
+      <Filter>src\BaseCore\WWNetDataBasic</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\WWFilter\MsgLogonDataFilter.cpp">
+      <Filter>src\Model\WWFilter</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BaseCore\WWBGUI\WWToast.cpp">
+      <Filter>src\BaseCore\WWBGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Control\WWCDBManager\WWCacheManager.cpp">
+      <Filter>src\Control\WWCDBManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Control\WWCDBManager\WWJsonManager.cpp">
+      <Filter>src\Control\WWCDBManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Control\WWCSound\WWSoundManager.cpp">
+      <Filter>src\Control\WWCSound</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BaseCore\WWBTools\md5.cpp">
+      <Filter>src\BaseCore\WWBTools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BaseCore\WWBTools\StringTool.cpp">
+      <Filter>src\BaseCore\WWBTools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\WWDataModel\CommonMessageData\CommonMessageData.cpp">
+      <Filter>src\Model\WWDataModel\CommonMessageData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\WWDataModel\WWUserData\UserData.cpp">
+      <Filter>src\Model\WWDataModel\WWUserData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\WWDataModel\WWGD\GD.cpp">
+      <Filter>src\Model\WWDataModel\WWGD</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\WWDataModel\WWLeaderboardData\LeaderboardData.cpp">
+      <Filter>src\Model\WWDataModel\WWLeaderboardData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\WWDataModel\WWEquipData\EquipData.cpp">
+      <Filter>src\Model\WWDataModel\WWEquipData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Control\WWXMLUnicodeManager\UnicodeManager.cpp">
+      <Filter>src\Control\WWXMLUnicodeManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BaseCore\WWBTools\PhoneTool.cpp">
+      <Filter>src\BaseCore\WWBTools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BaseCore\WWBTools\MyDate.cpp">
+      <Filter>src\BaseCore\WWBTools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Control\WWXMLUnicodeManager\WWXMLManager.cpp">
+      <Filter>src\Control\WWXMLUnicodeManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BaseCore\WWBTools\WW_GBK_TO_UTF8.cpp">
+      <Filter>src\BaseCore\WWBTools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\WWFilter\MsgGlobalFilter.cpp">
+      <Filter>src\Model\WWFilter</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BaseCore\WWBGUI\WWTouchSprite.cpp">
+      <Filter>src\BaseCore\WWBGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\LobbyScene\Layer\BottomBarLayer.cpp">
+      <Filter>src\View\LobbyScene\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\LobbyScene\Layer\FuncFoldMenuLayer.cpp">
+      <Filter>src\View\LobbyScene\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\LobbyScene\Layer\MainViewLayer.cpp">
+      <Filter>src\View\LobbyScene\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\LobbyScene\Layer\RoomListLayer.cpp">
+      <Filter>src\View\LobbyScene\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\LobbyScene\Layer\Scroller.cpp">
+      <Filter>src\View\LobbyScene\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\LobbyScene\Layer\TopBarLayer.cpp">
+      <Filter>src\View\LobbyScene\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\LoginScene\LoginScene.cpp">
+      <Filter>src\View\LoginScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\LobbyScene\LobbyScene.cpp">
+      <Filter>src\View\LobbyScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Control\WWRequest\MsgLobbyRequest.cpp">
+      <Filter>src\Control\WWRequest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\WWFilter\MsgLobbyRequestFilter.cpp">
+      <Filter>src\Model\WWFilter</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BaseCore\WWBI18N\WWConfigManager.cpp">
+      <Filter>src\BaseCore\WWBI18N</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Common\SetLayer\SetLayer.cpp">
+      <Filter>src\View\Common\SetLayer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\GameScene\GameBasicScene.cpp">
+      <Filter>src\View\GameScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\GameScene\Layer\GameBgLayer.cpp">
+      <Filter>src\View\GameScene\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BaseCore\WWBLog\LogUtil.cpp">
+      <Filter>src\BaseCore\WWBLog</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BaseCore\Common\VisibleRect.cpp">
+      <Filter>src\BaseCore\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BaseCore\WWBGUI\WWFrameBase.cpp">
+      <Filter>src\BaseCore\WWBGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BaseCore\WWBTools\AccountUtils.cpp">
+      <Filter>src\BaseCore\WWBTools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BaseCore\WWEffectBase\WWAnimation.cpp">
+      <Filter>src\BaseCore\WWEffectBase</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BaseCore\WWEffectBase\WWCircleAction.cpp">
+      <Filter>src\BaseCore\WWEffectBase</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Control\WWDataManager\WWDataManager.cpp">
+      <Filter>src\Control\WWDataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Control\WWCDBManager\WW_GBK_TO_UTF8.cpp">
+      <Filter>src\Control\WWCDBManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Control\WWCSound\GameSoundManager.cpp">
+      <Filter>src\Control\WWCSound</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Control\WWRequest\MsgChargeRequest.cpp">
+      <Filter>src\Control\WWRequest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Control\WWRequest\MsgCommonRequest.cpp">
+      <Filter>src\Control\WWRequest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Control\WWRequest\MsgGameCommonRequest.cpp">
+      <Filter>src\Control\WWRequest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Control\WWRequest\MsgLogonRequestNew.cpp">
+      <Filter>src\Control\WWRequest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Control\WWRequest\MsgLordGameRequest.cpp">
+      <Filter>src\Control\WWRequest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Control\WWWorkManager\WWHeartCheckManager.cpp">
+      <Filter>src\Control\WWWorkManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\WWDataModel\WWGameData\GameCommonData.cpp">
+      <Filter>src\Model\WWDataModel\WWGameData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\WWDataModel\WWGameData\GameStartData.cpp">
+      <Filter>src\Model\WWDataModel\WWGameData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\WWDataModel\WWGameData\LordGameData.cpp">
+      <Filter>src\Model\WWDataModel\WWGameData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\WWDataModel\WWUserData\Player.cpp">
+      <Filter>src\Model\WWDataModel\WWUserData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\WWFilter\MsgChargeFilter.cpp">
+      <Filter>src\Model\WWFilter</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\WWFilter\MsgLordGameFilter.cpp">
+      <Filter>src\Model\WWFilter</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Common\CardSprite\CardsGroup.cpp">
+      <Filter>src\View\Common\CardSprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Common\CardSprite\CardSprite.cpp">
+      <Filter>src\View\Common\CardSprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Common\CardSprite\Poker.cpp">
+      <Filter>src\View\Common\CardSprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Common\ChargeLayer\ChargeLayer.cpp">
+      <Filter>src\View\Common\ChargeLayer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Common\ChatLayer\ChatLayer.cpp">
+      <Filter>src\View\Common\ChatLayer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Common\CommLayer\CommDialog.cpp">
+      <Filter>src\View\Common\CommLayer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Common\CommLayer\LoadingLayer.cpp">
+      <Filter>src\View\Common\CommLayer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Common\PokerLogic\PokerCheck.cpp">
+      <Filter>src\View\Common\PokerLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Common\PokerLogic\PokerTips.cpp">
+      <Filter>src\View\Common\PokerLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Common\UserInfoLayer\UserInfoLayer.cpp">
+      <Filter>src\View\Common\UserInfoLayer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\GameScene\Animation\OutCardLayer.cpp">
+      <Filter>src\View\GameScene\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\GameScene\Component\NpcPlayer.cpp">
+      <Filter>src\View\GameScene\Component</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\GameScene\GameOver\GameOverLayer.cpp">
+      <Filter>src\View\GameScene\GameOver</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\GameScene\Layer\GamePlayerLayer.cpp">
+      <Filter>src\View\GameScene\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\GameScene\Layer\GameTopMenuLayer.cpp">
+      <Filter>src\View\GameScene\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\GameScene\Layer\MyCardsLayer.cpp">
+      <Filter>src\View\GameScene\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\GameScene\GameLogicManager.cpp">
+      <Filter>src\View\GameScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ThirdPlatform\PlantformLoginUtils.cpp">
+      <Filter>src\ThirdPlatform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ThirdPlatform\PlatformUtils.cpp">
+      <Filter>src\ThirdPlatform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\GameScene\Layer\GamePlayerInfo.cpp">
+      <Filter>src\View\GameScene\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\GameScene\Layer\GameSetMenu.cpp">
+      <Filter>src\View\GameScene\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AutoTest\Controller.cpp">
+      <Filter>src\AutoTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AutoTest\TestScene.cpp">
+      <Filter>src\AutoTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Control\WWDataManager\GameGlobalDataManager.cpp">
+      <Filter>src\Control\WWDataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Control\WWWorkManager\NetRecvExecute.cpp">
+      <Filter>src\Control\WWWorkManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\EffectView\EffectComponent.cpp">
+      <Filter>src\View\EffectView</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\GameScene\Layer\LaiziCardsChoose.cpp">
+      <Filter>src\View\GameScene\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BaseCore\WWEffectBase\WWShake.cpp">
+      <Filter>src\BaseCore\WWEffectBase</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Control\WWRequest\MsgMatchRequest.cpp">
+      <Filter>src\Control\WWRequest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Common\PropShop\PropShopLayer.cpp">
+      <Filter>src\View\Common\PropShop</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BaseCore\WWBGUI\WWRichText.cpp">
+      <Filter>src\BaseCore\WWBGUI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\WWBSocketCore\WWBSocketClient.h">
+      <Filter>src\BaseCore\WWBSocketCore</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Control\WWWorkManager\WWNetWorkManager.h">
+      <Filter>src\Control\WWWorkManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\WWMacros.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\Common\FactoryTools.h">
+      <Filter>src\BaseCore\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\Common\GameConfig.h">
+      <Filter>src\BaseCore\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\Common\UICoordConfig.h">
+      <Filter>src\BaseCore\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Control\WWRequest\MsgLogonRequest.h">
+      <Filter>src\Control\WWRequest</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\WWNetDataBasic\WWIMsgFilter.h">
+      <Filter>src\BaseCore\WWNetDataBasic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\WWFilter\MsgLogonDataFilter.h">
+      <Filter>src\Model\WWFilter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\WWBGUI\WWToast.h">
+      <Filter>src\BaseCore\WWBGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Control\WWCDBManager\WW_DB_System.h">
+      <Filter>src\Control\WWCDBManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Control\WWCDBManager\WWCacheManager.h">
+      <Filter>src\Control\WWCDBManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Control\WWCDBManager\WWJsonManager.h">
+      <Filter>src\Control\WWCDBManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Control\WWCSound\WWSoundManager.h">
+      <Filter>src\Control\WWCSound</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\WWBTools\md5.h">
+      <Filter>src\BaseCore\WWBTools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\WWBTools\StringTool.h">
+      <Filter>src\BaseCore\WWBTools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\WWDataModel\CommonMessageData\CommonMessageData.h">
+      <Filter>src\Model\WWDataModel\CommonMessageData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\Common\MsgConstDefine.h">
+      <Filter>src\BaseCore\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\WWDataModel\WWUserData\UserData.h">
+      <Filter>src\Model\WWDataModel\WWUserData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\WWDataModel\WWUserData\CustomEventConstant.h">
+      <Filter>src\Model\WWDataModel\WWUserData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\WWDataModel\WWGD\GD.h">
+      <Filter>src\Model\WWDataModel\WWGD</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\WWDataModel\WWLeaderboardData\LeaderboardData.h">
+      <Filter>src\Model\WWDataModel\WWLeaderboardData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\WWDataModel\WWEquipData\EquipData.h">
+      <Filter>src\Model\WWDataModel\WWEquipData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Control\WWXMLUnicodeManager\UnicodeManager.h">
+      <Filter>src\Control\WWXMLUnicodeManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\WWBTools\PhoneTool.h">
+      <Filter>src\BaseCore\WWBTools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\WWBTools\MyDate.h">
+      <Filter>src\BaseCore\WWBTools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Control\WWXMLUnicodeManager\WWXMLManager.h">
+      <Filter>src\Control\WWXMLUnicodeManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\WWBTools\WW_GBK_TO_UTF8.h">
+      <Filter>src\BaseCore\WWBTools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\WWFilter\MsgGlobalFilter.h">
+      <Filter>src\Model\WWFilter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\WWBGUI\WWTouchSprite.h">
+      <Filter>src\BaseCore\WWBGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\LobbyScene\LobbyScene.h">
+      <Filter>src\View\LobbyScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\LobbyScene\Layer\BottomBarLayer.h">
+      <Filter>src\View\LobbyScene\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\LobbyScene\Layer\FuncFoldMenuLayer.h">
+      <Filter>src\View\LobbyScene\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\LobbyScene\Layer\MainViewLayer.h">
+      <Filter>src\View\LobbyScene\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\LobbyScene\Layer\RoomListLayer.h">
+      <Filter>src\View\LobbyScene\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\LobbyScene\Layer\Scroller.h">
+      <Filter>src\View\LobbyScene\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\LobbyScene\Layer\TopBarLayer.h">
+      <Filter>src\View\LobbyScene\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\LoginScene\LoginScene.h">
+      <Filter>src\View\LoginScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Control\WWRequest\MsgLobbyRequest.h">
+      <Filter>src\Control\WWRequest</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\WWFilter\MsgLobbyRequestFilter.h">
+      <Filter>src\Model\WWFilter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\WWBI18N\WWConfig.h">
+      <Filter>src\BaseCore\WWBI18N</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\WWBI18N\WWConfigManager.h">
+      <Filter>src\BaseCore\WWBI18N</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Common\SetLayer\SetLayer.h">
+      <Filter>src\View\Common\SetLayer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Common\SetLayer\SetLayerRes.h">
+      <Filter>src\View\Common\SetLayer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\GameScene\GameBasicScene.h">
+      <Filter>src\View\GameScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\GameScene\GameSceneDefine.h">
+      <Filter>src\View\GameScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\GameScene\Layer\GameBgLayer.h">
+      <Filter>src\View\GameScene\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\WWBLog\LogUtil.h">
+      <Filter>src\BaseCore\WWBLog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\Common\VisibleRect.h">
+      <Filter>src\BaseCore\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\WWBGUI\WWFrameBase.h">
+      <Filter>src\BaseCore\WWBGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\WWBTools\AccountUtils.h">
+      <Filter>src\BaseCore\WWBTools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\WWEffectBase\WWAnimation.h">
+      <Filter>src\BaseCore\WWEffectBase</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\WWEffectBase\WWCircleAction.h">
+      <Filter>src\BaseCore\WWEffectBase</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Control\WWDataManager\WWDataManager.h">
+      <Filter>src\Control\WWDataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Control\WWCDBManager\WW_GBK_TO_UTF8.h">
+      <Filter>src\Control\WWCDBManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Control\WWCSound\GameSoundManager.h">
+      <Filter>src\Control\WWCSound</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Control\WWRequest\MsgChargeRequest.h">
+      <Filter>src\Control\WWRequest</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Control\WWRequest\MsgCommonRequest.h">
+      <Filter>src\Control\WWRequest</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Control\WWRequest\MsgGameCommonRequest.h">
+      <Filter>src\Control\WWRequest</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Control\WWRequest\MsgLogonRequestNew.h">
+      <Filter>src\Control\WWRequest</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Control\WWRequest\MsgLordGameRequest.h">
+      <Filter>src\Control\WWRequest</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Control\WWWorkManager\WWHeartCheckManager.h">
+      <Filter>src\Control\WWWorkManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\WWDataModel\WWGameData\GameCommonData.h">
+      <Filter>src\Model\WWDataModel\WWGameData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\WWDataModel\WWGameData\GameStartData.h">
+      <Filter>src\Model\WWDataModel\WWGameData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\WWDataModel\WWGameData\LordGameData.h">
+      <Filter>src\Model\WWDataModel\WWGameData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\WWDataModel\WWUserData\Player.h">
+      <Filter>src\Model\WWDataModel\WWUserData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\WWFilter\MsgChargeFilter.h">
+      <Filter>src\Model\WWFilter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\WWFilter\MsgLordGameFilter.h">
+      <Filter>src\Model\WWFilter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Common\CardSprite\CardsGroup.h">
+      <Filter>src\View\Common\CardSprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Common\CardSprite\CardSprite.h">
+      <Filter>src\View\Common\CardSprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Common\CardSprite\Poker.h">
+      <Filter>src\View\Common\CardSprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Common\ChargeLayer\ChargeLayer.h">
+      <Filter>src\View\Common\ChargeLayer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Common\ChargeLayer\ChargeLayerRes.h">
+      <Filter>src\View\Common\ChargeLayer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Common\ChatLayer\ChatLayer.h">
+      <Filter>src\View\Common\ChatLayer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Common\ChatLayer\ChatLayerRes.h">
+      <Filter>src\View\Common\ChatLayer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Common\CommLayer\CommDialog.h">
+      <Filter>src\View\Common\CommLayer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Common\CommLayer\CommDialogRes.h">
+      <Filter>src\View\Common\CommLayer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Common\CommLayer\LoadingLayer.h">
+      <Filter>src\View\Common\CommLayer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Common\PokerLogic\PokerCheck.h">
+      <Filter>src\View\Common\PokerLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Common\PokerLogic\PokerConstants.h">
+      <Filter>src\View\Common\PokerLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Common\PokerLogic\PokerLogic.h">
+      <Filter>src\View\Common\PokerLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Common\PokerLogic\PokerTips.h">
+      <Filter>src\View\Common\PokerLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Common\UserInfoLayer\UserInfoLayer.h">
+      <Filter>src\View\Common\UserInfoLayer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Common\UserInfoLayer\UserInfoLayerRes.h">
+      <Filter>src\View\Common\UserInfoLayer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\GameScene\Animation\AnimationRes.h">
+      <Filter>src\View\GameScene\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\GameScene\Animation\OutCardLayer.h">
+      <Filter>src\View\GameScene\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\GameScene\Component\NpcPlayer.h">
+      <Filter>src\View\GameScene\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\GameScene\GameOver\GameOverLayer.h">
+      <Filter>src\View\GameScene\GameOver</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\GameScene\GameOver\GameOverLayerRes.h">
+      <Filter>src\View\GameScene\GameOver</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\GameScene\Layer\GamePlayerLayer.h">
+      <Filter>src\View\GameScene\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\GameScene\Layer\GameTopMenuLayer.h">
+      <Filter>src\View\GameScene\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\GameScene\Layer\MyCardsLayer.h">
+      <Filter>src\View\GameScene\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\GameScene\GameLogicManager.h">
+      <Filter>src\View\GameScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\LobbyScene\Layer\RoomListLayerRes.h">
+      <Filter>src\View\LobbyScene\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ThirdPlatform\PlantformLoginUtils.h">
+      <Filter>src\ThirdPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ThirdPlatform\PlatformUtils.h">
+      <Filter>src\ThirdPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\GameScene\Layer\GamePlayerInfo.h">
+      <Filter>src\View\GameScene\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\GameScene\Layer\GameSetMenu.h">
+      <Filter>src\View\GameScene\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AutoTest\Controller.h">
+      <Filter>src\AutoTest</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AutoTest\TestScene.h">
+      <Filter>src\AutoTest</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Control\WWDataManager\GameGlobalDataManager.h">
+      <Filter>src\Control\WWDataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Control\WWWorkManager\NetRecvExecute.h">
+      <Filter>src\Control\WWWorkManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\EffectView\EffectComponent.h">
+      <Filter>src\View\EffectView</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\GameScene\Layer\LaiziCardsChoose.h">
+      <Filter>src\View\GameScene\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\WWEffectBase\WWShake.h">
+      <Filter>src\BaseCore\WWEffectBase</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Control\WWRequest\MsgMatchRequest.h">
+      <Filter>src\Control\WWRequest</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Common\PropShop\PropShopLayer.h">
+      <Filter>src\View\Common\PropShop</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Common\PropShop\PropShopLayerRes.h">
+      <Filter>src\View\Common\PropShop</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseCore\WWBGUI\WWRichText.h">
+      <Filter>src\BaseCore\WWBGUI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

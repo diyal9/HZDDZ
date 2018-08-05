@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<HallScene>
+		<string name="h_Game_happy">欢乐斗地主</string> 
+		<string name="h_Game_match">比赛斗地主</string> 
+		<string name="h_Game_rascal">癞子斗地主</string> 
+		<string name="h_Game_crazy">疯狂斗地主</string>
+		<string name="h_Exit_tishi">主人，您真的要离开么？您还没开始大开杀戒呢！</string>
+		<string name="h_Exit_sure">残忍离开</string>
+		<string name="h_Exit_cansle">继续战斗</string>
+	</HallScene>
+	<LoginScene>
+		<string name="logining">正在为您登录中...</string> 
+	</LoginScene>
+
+	<GameScene>
+		<string name="g_Game_WaitFor_Start">等待系统配桌中……</string>
+		<string name="g_Game_WaitFor_CallLord">等待 %s 叫地主……</string>
+		<string name="g_Game_WaitFor_GrabLord">等待 %s 抢地主……</string>
+		<string name="g_Game_WaitFor_MinPai">等待 %s 明牌……</string>
+		<string name="g_Game_WaitFor_JiaBei">等待 %s 加倍</string>
+		<string name="g_Game_TopMenu_Multiple">倍数：</string>
+		<string name="g_Game_TopMenu_Base">底注：</string>
+		<string name="g_Game_exit_tishi">主人，您如果选择退出，将由系统代打完本局，输赢仍然由您承担。</string>
+		<string name="g_Game_exit_sure">确定退出</string>
+		<string name="g_Game_exit_cansle">取消</string>
+		<string name="g_Game_info_nick">昵称：</string>
+		<string name="g_Game_info_id">ID：</string>
+		<string name="g_Game_info_chenghao">称号：</string>
+		<string name="g_Game_info_address">地区：</string>
+		<string name="g_Game_info_shenglv">胜率 %d% </string>
+		<string name="g_Game_info_totle">总局数 %d</string>
+		<string name="g_Game_top_key">赢足 %s 送</string>
+		<string name="g_Gmae_info_daoju">互动道具每次使用消耗%d金币</string>
+	</GameScene>
+
+	<GlobalLayer>
+		<string name="g_Setting_Silent_onoff_Str">静音</string> 
+		<string name="g_Setting_effect_Str">游戏音效</string> 
+		<string name="g_Setting_bg_music_Str">背景音乐</string> 
+		<string name="g_Setting_vibrate_onoff_Str">震动</string> 
+		<string name="g_Setting_animation_onoff_Str">动画</string> 
+		<string name="g_Setting_scroll_onoff_str">滚报</string>
+		<string name="g_Setting_continu_onoff_str">自动续局</string>
+	</GlobalLayer>
+	<ChargeLayer>
+		<string name="c_Charge_viplv">再充 %d 元即可成为 VIP%d</string>
+		<string name="c_charge_desc">用钻石购买金币更优惠，而且还可以获取VIP经验！</string>
+		<string name="c_Charge_money">%d 元</string>
+		<string name="c_Charge_jinbi"> 金币</string>
+		<string name="c_Charge_zuanshi"> 钻石</string>
+		<string name="c_Charge_zengs_jinbi">赠送%d 金币</string>
+		<string name="c_Charge_zengs_zuans">赠送%d 钻石</string>
+		<string name="c_charge_yuan"> 元</string>
+	</ChargeLayer>
+
+	<UserInfoLayer>
+		<string name="u_info_id">账号：%s</string>
+		<string name="u_info_lv">等级：</string>
+		<string name="u_info_waling">蛙龄：%s</string>
+		<string name="u_info_last_online">距上次登录：%s</string>
+		<string name="u_info_address">所在地区：%s</string>
+		<string name="u_info_happy_txt">欢乐斗地主</string>
+		<string name="u_info_laizi_txt">癞子斗地主</string>
+		<string name="u_info_bisai">比赛</string>
+		<string name="u_info_win_precent">胜率 %d%</string>
+		<string name="u_info_jus">胜利局数 %d/ 总局数 %d</string>
+		<string name="u_info_jifen">当前积分 </string>
+		<string name="u_small_tuhao">小土豪</string>
+		<string name="u_big_tuhao">大土豪</string>
+		<string name="u_super_tuhao">  超级大土豪</string>
+		<string name="u_male">男</string>
+		<string name="u_female">女</string>
+	</UserInfoLayer>
+
+	<GameOverLayer>
+		<string name="g_over_difen">底分：%d 倍数：%d</string>
+		<string name="g_over_box_desc">连赢%d局开启宝箱 （%d/%d）</string>
+		<string name="g_over_jingyan">经验值 %d</string>
+		<string name="g_over_agan">再来一局</string>
+		<string name="g_over_leave">离开游戏</string>
+		<string name="g_over_xiaohao">本局消耗%d金币</string>
+		<string name="g_over_times">（%d秒）</string>
+	</GameOverLayer>
+
+	<RoomListLayer>
+		<string name="room_lv_1">新手房</string>
+		<string name="room_lv_2">中级房</string>
+		<string name="room_lv_3">高手房</string>
+		<string name="room_lv_4">大师房</string>
+		<string name="room_difen">底分 %d</string>
+		<string name="room_zhunru">%d 金币准入</string>
+		<string name="room_jiangli">可获得铜钥匙</string>
+		<string name="room_timeMatch">定时赛</string>
+		<string name="room_peopleMatch">定人赛</string>
+		<string name="room_matchRequested">已报名</string>
+		<string name="room_matchRequest">报名</string>
+		<string name="room_peopleTipFormet">%d 人已报名 满 %d 人开赛</string>
+		<string name="room_timeTipFormet">%d 人已报名 剩余 %d 分钟开赛</string>
+	</RoomListLayer>
+	
+	<FriendLayer>
+		<string name="friend_add_txt">添加</string>
+		<string name="friend_tuijian_txt">推荐好友</string>
+		<string name="friend_shenqing_txt">好友申请</string>
+		<string name="friend_youid_txt">您的账号：%s</string>
+		<string name="friend_youcount_txt">好友数量：%d</string>
+		<string name="friend_most_txt">目前好友上限：%d</string>
+		<string name="friend_sach_holder">  输入对方账号</string>
+		<string name="friend_add_desc">按下【添加】看看又有没有人申请好友或去搜索你心仪的TA吧！</string>
+		<string name="friend_now_apply">当前申请人数：%d</string>
+		<string name="friend_page">%d/%d</string>
+		<string name="friend_lv">LV %d</string>
+		<string name="friend_last_logintime">登入：%s</string>
+		<string name="friend_agree">同意</string>
+		<string name="friend_uagree">拒绝</string>
+		<string name="friend_get">领取</string>
+		<string name="friend_geted">已领取</string>
+		<string name="friend_give">赠送</string>
+		<string name="friend_gived">已赠送</string>
+		<string name="friend_all_agree">全部同意</string>
+		<string name="friend_all_uagree">全部拒绝</string>
+		<string name="friend_all_get">一键领取</string>
+		<string name="friend_all_give">一键赠送</string>
+		
+	</FriendLayer>
+	
+	<PropShopLayer>
+		<string name="PropShopLayer_gold">%d金币</string>
+		<string name="PropShopLayer_dimd">%d钻石</string>
+		<string name="PropShopLayer_nextReflashTime">下次自动刷新时间 : </string>
+		<string name="PropShopLayer_todaytime">今天 %s</string>
+		<string name="PropShopLayer_reflashNewTip">刷新后会换一批商品哦！</string>
+		<string name="PropShopLayer_SaleOutTip">该道具已经卖完了哦！</string>
+		<string name="PropShopLayer_cansaltip">您有以下物品可出售,出售可获得 %d 金币！</string>
+		<string name="PropShopLayer_BuyBtnLabel">购 买</string>
+		<string name="PropShopLayer_Success">购买成功!</string>
+		<string name="PropShopLayer_nomoney">用户帐户余额不足!</string>
+		<string name="PropShopLayer_saleout">商品已售馨!</string>
+		<string name="PropShopLayer_hadbuy">指定时间段已经购买过该道具!</string>
+		<string name="SaleDialog_sale">出 售</string>
+		<string name="SaleDialog_saletotle">您有以下物品可出售，出售可获得</string>
+	</PropShopLayer>
+
+	<Other>
+		<string name="room_zhunru">暂未开放</string>
+	</Other>
+
+</resources>

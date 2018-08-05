@@ -1,0 +1,682 @@
+﻿  AssetsManager.cpp
+  AssetsManagerEx.cpp
+  CCEventAssetsManagerEx.cpp
+  CCEventListenerAssetsManagerEx.cpp
+  Downloader.cpp
+  Manifest.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\..\extensions\assets-manager\CCEventListenerAssetsManagerEx.cpp)
+  CCControl.cpp
+  CCControlButton.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\..\extensions\assets-manager\Downloader.cpp)
+  CCControlColourPicker.cpp
+  CCControlHuePicker.cpp
+  CCControlPotentiometer.cpp
+  CCControlSaturationBrightnessPicker.cpp
+  CCControlSlider.cpp
+  CCControlStepper.cpp
+  CCControlSwitch.cpp
+  CCControlUtils.cpp
+  CCInvocation.cpp
+  CCScrollView.cpp
+  CCTableView.cpp
+  CCTableViewCell.cpp
+  CCParticle3DAffector.cpp
+  CCParticle3DEmitter.cpp
+  CCParticle3DRender.cpp
+  CCParticleSystem3D.cpp
+  CCPUAffector.cpp
+  CCPUAffectorManager.cpp
+..\..\extensions\Particle3D\CCParticleSystem3D.cpp(157): warning C4018: “<”: 有符号/无符号不匹配
+  CCPUAffectorTranslator.cpp
+  CCPUAlignAffector.cpp
+  CCPUAlignAffectorTranslator.cpp
+  CCPUBaseCollider.cpp
+  CCPUBaseColliderTranslator.cpp
+  CCPUBaseForceAffector.cpp
+  CCPUBaseForceAffectorTranslator.cpp
+  CCPUBeamRender.cpp
+  CCPUBehaviour.cpp
+  CCPUBehaviourManager.cpp
+  CCPUBehaviourTranslator.cpp
+  CCPUBillboardChain.cpp
+  CCPUBoxCollider.cpp
+  CCPUBoxColliderTranslator.cpp
+  CCPUBoxEmitter.cpp
+  CCPUBoxEmitterTranslator.cpp
+  CCPUCircleEmitter.cpp
+  CCPUCircleEmitterTranslator.cpp
+  CCPUCollisionAvoidanceAffector.cpp
+  CCPUCollisionAvoidanceAffectorTranslator.cpp
+  CCPUColorAffector.cpp
+  CCPUColorAffectorTranslator.cpp
+  CCPUDoAffectorEventHandler.cpp
+  CCPUDoAffectorEventHandlerTranslator.cpp
+  CCPUDoEnableComponentEventHandler.cpp
+  CCPUDoEnableComponentEventHandlerTranslator.cpp
+  CCPUDoExpireEventHandler.cpp
+  CCPUDoExpireEventHandlerTranslator.cpp
+  CCPUDoFreezeEventHandler.cpp
+  CCPUDoFreezeEventHandlerTranslator.cpp
+  CCPUDoPlacementParticleEventHandler.cpp
+  CCPUDoPlacementParticleEventHandlerTranslator.cpp
+  CCPUDoScaleEventHandler.cpp
+  CCPUDoScaleEventHandlerTranslator.cpp
+  CCPUDoStopSystemEventHandler.cpp
+  CCPUDoStopSystemEventHandlerTranslator.cpp
+  CCPUDynamicAttribute.cpp
+  CCPUDynamicAttributeTranslator.cpp
+  CCPUEmitter.cpp
+  CCPUEmitterManager.cpp
+  CCPUEmitterTranslator.cpp
+  CCPUEventHandler.cpp
+  CCPUEventHandlerManager.cpp
+  CCPUEventHandlerTranslator.cpp
+  CCPUFlockCenteringAffector.cpp
+  CCPUFlockCenteringAffectorTranslator.cpp
+  CCPUForceField.cpp
+  CCPUForceFieldAffector.cpp
+  CCPUForceFieldAffectorTranslator.cpp
+  CCPUGeometryRotator.cpp
+  CCPUGeometryRotatorTranslator.cpp
+  CCPUGravityAffector.cpp
+  CCPUGravityAffectorTranslator.cpp
+  CCPUInterParticleCollider.cpp
+  CCPUInterParticleColliderTranslator.cpp
+  CCPUJetAffector.cpp
+  CCPUJetAffectorTranslator.cpp
+  CCPULineAffector.cpp
+  CCPULineAffectorTranslator.cpp
+  CCPULinearForceAffector.cpp
+  CCPULinearForceAffectorTranslator.cpp
+  CCPULineEmitter.cpp
+  CCPULineEmitterTranslator.cpp
+  CCPUListener.cpp
+  CCPUMaterialManager.cpp
+  CCPUMaterialTranslator.cpp
+  CCPUMeshSurfaceEmitter.cpp
+  CCPUMeshSurfaceEmitterTranslator.cpp
+  CCPUNoise.cpp
+  CCPUObserver.cpp
+  CCPUObserverManager.cpp
+  CCPUObserverTranslator.cpp
+  CCPUOnClearObserver.cpp
+  CCPUOnClearObserverTranslator.cpp
+  CCPUOnCollisionObserver.cpp
+  CCPUOnCollisionObserverTranslator.cpp
+  CCPUOnCountObserver.cpp
+  CCPUOnCountObserverTranslator.cpp
+  CCPUOnEmissionObserver.cpp
+  CCPUOnEmissionObserverTranslator.cpp
+  CCPUOnEventFlagObserver.cpp
+  CCPUOnEventFlagObserverTranslator.cpp
+  CCPUOnExpireObserver.cpp
+  CCPUOnExpireObserverTranslator.cpp
+  CCPUOnPositionObserver.cpp
+  CCPUOnPositionObserverTranslator.cpp
+  CCPUOnQuotaObserver.cpp
+  CCPUOnQuotaObserverTranslator.cpp
+  CCPUOnRandomObserver.cpp
+..\..\extensions\Particle3D\PU\CCPUOnQuotaObserver.cpp(66): warning C4018: “>=”: 有符号/无符号不匹配
+..\..\extensions\Particle3D\PU\CCPUOnQuotaObserver.cpp(80): warning C4018: “>=”: 有符号/无符号不匹配
+  CCPUOnRandomObserverTranslator.cpp
+  CCPUOnTimeObserver.cpp
+  CCPUOnTimeObserverTranslator.cpp
+  CCPUOnVelocityObserver.cpp
+  CCPUOnVelocityObserverTranslator.cpp
+  CCPUParticleFollower.cpp
+  CCPUParticleFollowerTranslator.cpp
+  CCPUParticleSystem3D.cpp
+  CCPUParticleSystem3DTranslator.cpp
+  CCPUPathFollower.cpp
+  CCPUPathFollowerTranslator.cpp
+  CCPUPlane.cpp
+  CCPUPlaneCollider.cpp
+  CCPUPlaneColliderTranslator.cpp
+  CCPUPointEmitter.cpp
+  CCPUPointEmitterTranslator.cpp
+  CCPUPositionEmitter.cpp
+  CCPUPositionEmitterTranslator.cpp
+  CCPURandomiser.cpp
+  CCPURandomiserTranslator.cpp
+  CCPURender.cpp
+  CCPURendererTranslator.cpp
+  CCPURibbonTrail.cpp
+  CCPURibbonTrailRender.cpp
+  CCPUScaleAffector.cpp
+  CCPUScaleAffectorTranslator.cpp
+  CCPUScaleVelocityAffector.cpp
+  CCPUScaleVelocityAffectorTranslator.cpp
+  CCPUScriptCompiler.cpp
+  CCPUScriptLexer.cpp
+  CCPUScriptParser.cpp
+  CCPUScriptTranslator.cpp
+  CCPUSimpleSpline.cpp
+  CCPUSineForceAffector.cpp
+  CCPUSineForceAffectorTranslator.cpp
+  CCPUSlaveBehaviour.cpp
+  CCPUSlaveBehaviourTranslator.cpp
+  CCPUSlaveEmitter.cpp
+  CCPUSlaveEmitterTranslator.cpp
+  CCPUSphere.cpp
+  CCPUSphereCollider.cpp
+  CCPUSphereColliderTranslator.cpp
+  CCPUSphereSurfaceEmitter.cpp
+  CCPUSphereSurfaceEmitterTranslator.cpp
+  CCPUTechniqueTranslator.cpp
+  CCPUTextureAnimator.cpp
+  CCPUTextureAnimatorTranslator.cpp
+  CCPUTextureRotator.cpp
+  CCPUTextureRotatorTranslator.cpp
+  CCPUTranslateManager.cpp
+  CCPUUtil.cpp
+  CCPUVelocityMatchingAffector.cpp
+  CCPUVelocityMatchingAffectorTranslator.cpp
+  CCPUVertexEmitter.cpp
+  CCPUVortexAffector.cpp
+  CCPUVortexAffectorTranslator.cpp
+  CCPhysicsDebugNode.cpp
+  CCPhysicsSprite.cpp
+  ConvertUTF.c
+  ConvertUTFWrapper.cpp
+  edtaa3func.cpp
+  flatc.cpp
+  idl_gen_cpp.cpp
+  idl_gen_fbs.cpp
+  idl_gen_general.cpp
+  idl_gen_go.cpp
+  idl_gen_text.cpp
+  idl_parser.cpp
+  tinyxml2.cpp
+  ioapi_mem.cpp
+  ioapi.cpp
+  unzip.cpp
+  xxhash.c
+..\..\external\xxhash\xxhash.c(312): warning C4804: “/”: 在操作中使用类型“bool”不安全
+  CCAABB.cpp
+  CCAnimate3D.cpp
+  CCAnimation3D.cpp
+  CCAttachNode.cpp
+  CCBillBoard.cpp
+  CCBundle3D.cpp
+  CCBundleReader.cpp
+  CCFrustum.cpp
+  CCMesh.cpp
+  CCMeshSkin.cpp
+  CCMeshVertexIndexData.cpp
+  CCOBB.cpp
+  CCObjLoader.cpp
+  CCPlane.cpp
+  CCRay.cpp
+  CCSkeleton3D.cpp
+  CCSprite3D.cpp
+  CCSprite3DMaterial.cpp
+  AudioEngine.cpp
+  AudioCache.cpp
+  AudioEngine-win32.cpp
+  AudioPlayer.cpp
+  MciPlayer.cpp
+  SimpleAudioEngine.cpp
+  CCAllocatorDiagnostics.cpp
+  CCAllocatorGlobal.cpp
+  CCAllocatorGlobalNewDelete.cpp
+  atitc.cpp
+  base64.cpp
+  CCAsyncTaskPool.cpp
+  CCAutoreleasePool.cpp
+  ccCArray.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\audio\win32\SimpleAudioEngine.cpp)
+  CCConfiguration.cpp
+  CCConsole.cpp
+  CCData.cpp
+  CCDataVisitor.cpp
+  CCDirector.cpp
+  CCEvent.cpp
+  CCEventAcceleration.cpp
+  CCEventCustom.cpp
+  CCEventDispatcher.cpp
+  CCEventFocus.cpp
+  CCEventKeyboard.cpp
+  CCEventListener.cpp
+  CCEventListenerAcceleration.cpp
+  CCEventListenerCustom.cpp
+  CCEventListenerFocus.cpp
+  CCEventListenerKeyboard.cpp
+  CCEventListenerMouse.cpp
+  CCEventListenerTouch.cpp
+  CCEventMouse.cpp
+  CCEventTouch.cpp
+  ccFPSImages.c
+  CCIMEDispatcher.cpp
+  CCNS.cpp
+  CCProfiling.cpp
+  ccRandom.cpp
+  CCRef.cpp
+  CCScheduler.cpp
+  CCScriptSupport.cpp
+  CCTouch.cpp
+  ccTypes.cpp
+  CCUserDefault.cpp
+  ccUTF8.cpp
+  ccUtils.cpp
+  CCValue.cpp
+..\base\ccUTF8.cpp(234): warning C4996: 'cocos2d::cc_wcslen': 被声明为已否决
+          F:\kurui\trunk\HZ_DDZ\cocos2d\cocos\base/ccUTF8.h(124) : 参见“cocos2d::cc_wcslen”的声明
+..\base\ccUTF8.cpp(277): warning C4996: 'cocos2d::cc_wcslen': 被声明为已否决
+          F:\kurui\trunk\HZ_DDZ\cocos2d\cocos\base/ccUTF8.h(124) : 参见“cocos2d::cc_wcslen”的声明
+  etc1.cpp
+  pvr.cpp
+  ObjectFactory.cpp
+  s3tc.cpp
+  TGAlib.cpp
+  ZipUtils.cpp
+  cocos2d.cpp
+  CCArray.cpp
+  CCDeprecated.cpp
+  CCDictionary.cpp
+  CCNotificationCenter.cpp
+  CCSet.cpp
+  CCString.cpp
+  CCBAnimationManager.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\deprecated\CCDeprecated.cpp)
+  CCBFileLoader.cpp
+  CCBKeyframe.cpp
+  CCBReader.cpp
+  CCBSequence.cpp
+  CCBSequenceProperty.cpp
+  CCControlButtonLoader.cpp
+  CCControlLoader.cpp
+  CCLabelBMFontLoader.cpp
+  CCLabelTTFLoader.cpp
+  CCLayerColorLoader.cpp
+  CCLayerGradientLoader.cpp
+  CCLayerLoader.cpp
+  CCMenuItemImageLoader.cpp
+  CCMenuItemLoader.cpp
+  CCNode+CCBRelativePositioning.cpp
+  CCNodeLoader.cpp
+  CCNodeLoaderLibrary.cpp
+  CCParticleSystemQuadLoader.cpp
+  CCScale9SpriteLoader.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocosbuilder\CCNodeLoader.cpp)
+  CCScrollViewLoader.cpp
+  CCSpriteLoader.cpp
+  CCActionTimeline.cpp
+  CCActionTimelineCache.cpp
+  CCActionTimelineNode.cpp
+  CCFrame.cpp
+  CCNodeReader.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\ActionTimeline\CCActionTimelineCache.cpp)
+  CCTimeLine.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\ActionTimeline\CCActionTimelineNode.cpp)
+..\editor-support\cocostudio\ActionTimeline\CCTimeLine.cpp(142): warning C4018: “<”: 有符号/无符号不匹配
+..\editor-support\cocostudio\ActionTimeline\CCTimeLine.cpp(144): warning C4018: “>=”: 有符号/无符号不匹配
+..\editor-support\cocostudio\ActionTimeline\CCTimeLine.cpp(155): warning C4018: “>=”: 有符号/无符号不匹配
+..\editor-support\cocostudio\ActionTimeline\CCTimeLine.cpp(170): warning C4018: “>=”: 有符号/无符号不匹配
+..\editor-support\cocostudio\ActionTimeline\CCTimeLine.cpp(170): warning C4018: “<”: 有符号/无符号不匹配
+..\editor-support\cocostudio\ActionTimeline\CCTimeLine.cpp(175): warning C4018: “>”: 有符号/无符号不匹配
+..\editor-support\cocostudio\ActionTimeline\CCTimeLine.cpp(191): warning C4018: “<”: 有符号/无符号不匹配
+..\editor-support\cocostudio\ActionTimeline\CCTimeLine.cpp(217): warning C4018: “<”: 有符号/无符号不匹配
+..\editor-support\cocostudio\ActionTimeline\CCTimeLine.cpp(224): warning C4018: “>=”: 有符号/无符号不匹配
+..\editor-support\cocostudio\ActionTimeline\CCTimeLine.cpp(248): warning C4018: “>”: 有符号/无符号不匹配
+..\editor-support\cocostudio\ActionTimeline\CCTimeLine.cpp(248): warning C4018: “<”: 有符号/无符号不匹配
+  CSLoader.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\ActionTimeline\CCNodeReader.cpp)
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\ActionTimeline\CSLoader.cpp)
+  CCActionFrame.cpp
+  CCActionFrameEasing.cpp
+  CCActionManagerEx.cpp
+  CCActionNode.cpp
+  CCActionObject.cpp
+  CCArmature.cpp
+  CCArmatureAnimation.cpp
+  CCArmatureDataManager.cpp
+  CCArmatureDefine.cpp
+  CCBatchNode.cpp
+  CCBone.cpp
+  CCColliderDetector.cpp
+  CCComAttribute.cpp
+  CCComAudio.cpp
+  CCComController.cpp
+  CCComRender.cpp
+  CCDataReaderHelper.cpp
+  CCDatas.cpp
+  CCDecorativeDisplay.cpp
+..\editor-support\cocostudio\CCDataReaderHelper.cpp(312): warning C4996: 'cocos2d::FileUtils::getFileData': 被声明为已否决
+          F:\kurui\trunk\HZ_DDZ\cocos2d\cocos\platform/CCFileUtils.h(111) : 参见“cocos2d::FileUtils::getFileData”的声明
+          F:\kurui\trunk\HZ_DDZ\cocos2d\cocos\platform/CCFileUtils.h(111) : 参见“cocos2d::FileUtils::getFileData”的声明
+..\editor-support\cocostudio\CCDataReaderHelper.cpp(428): warning C4996: 'cocos2d::FileUtils::getFileData': 被声明为已否决
+          F:\kurui\trunk\HZ_DDZ\cocos2d\cocos\platform/CCFileUtils.h(111) : 参见“cocos2d::FileUtils::getFileData”的声明
+          F:\kurui\trunk\HZ_DDZ\cocos2d\cocos\platform/CCFileUtils.h(111) : 参见“cocos2d::FileUtils::getFileData”的声明
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\CCComRender.cpp)
+  CCDisplayFactory.cpp
+  CCDisplayManager.cpp
+  CCInputDelegate.cpp
+  CCObjectExtensionData.cpp
+  CCProcessBase.cpp
+  CCSGUIReader.cpp
+  CCSkin.cpp
+  CCSpriteFrameCacheHelper.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\CCSGUIReader.cpp)
+  CCSSceneReader.cpp
+  CCTransformHelp.cpp
+  CCTween.cpp
+  CCUtilMath.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\CCSSceneReader.cpp)
+  CocoLoader.cpp
+  DictionaryHelper.cpp
+  FlatBuffersSerialize.cpp
+  TriggerBase.cpp
+  TriggerMng.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\FlatBuffersSerialize.cpp)
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\TriggerBase.cpp)
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\TriggerMng.cpp)
+  TriggerObj.cpp
+  WidgetCallBackHandlerProtocol.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\TriggerObj.cpp)
+  ArmatureNodeReader.cpp
+  ButtonReader.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetCallBackHandlerProtocol.cpp)
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\ArmatureNodeReader\ArmatureNodeReader.cpp)
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\ButtonReader\ButtonReader.cpp)
+  CheckBoxReader.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\CheckBoxReader\CheckBoxReader.cpp)
+  ComAudioReader.cpp
+  GameMapReader.cpp
+  ImageViewReader.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\ComAudioReader\ComAudioReader.cpp)
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\GameMapReader\GameMapReader.cpp)
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\ImageViewReader\ImageViewReader.cpp)
+  LayoutReader.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\LayoutReader\LayoutReader.cpp)
+  ListViewReader.cpp
+  LoadingBarReader.cpp
+  NodeReaderDefine.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\ListViewReader\ListViewReader.cpp)
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\LoadingBarReader\LoadingBarReader.cpp)
+  NodeReaderProtocol.cpp
+  NodeReader.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp)
+  PageViewReader.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\PageViewReader\PageViewReader.cpp)
+  ParticleReader.cpp
+  ProjectNodeReader.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\ParticleReader\ParticleReader.cpp)
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\ProjectNodeReader\ProjectNodeReader.cpp)
+  ScrollViewReader.cpp
+  SingleNodeReader.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\ScrollViewReader\ScrollViewReader.cpp)
+  SliderReader.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\SingleNodeReader\SingleNodeReader.cpp)
+  SpriteReader.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\SliderReader\SliderReader.cpp)
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\SpriteReader\SpriteReader.cpp)
+  TextAtlasReader.cpp
+  TextBMFontReader.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\TextAtlasReader\TextAtlasReader.cpp)
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\TextBMFontReader\TextBMFontReader.cpp)
+  TextFieldReader.cpp
+  TextReader.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\TextFieldReader\TextFieldReader.cpp)
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\TextReader\TextReader.cpp)
+  Node3DReader.cpp
+  Sprite3DReader.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\Sprite3DReader\Sprite3DReader.cpp)
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\Node3DReader\Node3DReader.cpp)
+  UserCameraReader.cpp
+  Particle3DReader.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\UserCameraReader\UserCameraReader.cpp)
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\Particle3DReader\Particle3DReader.cpp)
+  WidgetReader.cpp
+  CCAffineTransform.cpp
+  CCGeometry.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\editor-support\cocostudio\WidgetReader\WidgetReader.cpp)
+  CCVertex.cpp
+  Mat4.cpp
+  MathUtil.cpp
+  Quaternion.cpp
+  TransformUtils.cpp
+  Vec2.cpp
+  Vec3.cpp
+  Vec4.cpp
+  HttpClient.cpp
+  SocketIO.cpp
+F:\kurui\trunk\HZ_DDZ\cocos2d\cocos\network/HttpRequest.h(240): warning C4996: 'cocos2d::network::HttpRequest::setResponseCallback': 被声明为已否决 (..\network\HttpClient.cpp)
+          F:\kurui\trunk\HZ_DDZ\cocos2d\cocos\network/HttpRequest.h(250) : 参见“cocos2d::network::HttpRequest::setResponseCallback”的声明
+  WebSocket.cpp
+F:\kurui\trunk\HZ_DDZ\cocos2d\cocos\network/HttpRequest.h(240): warning C4996: 'cocos2d::network::HttpRequest::setResponseCallback': 被声明为已否决 (..\network\SocketIO.cpp)
+          F:\kurui\trunk\HZ_DDZ\cocos2d\cocos\network/HttpRequest.h(250) : 参见“cocos2d::network::HttpRequest::setResponseCallback”的声明
+  CCPhysicsBody.cpp
+  CCPhysicsContact.cpp
+  CCPhysicsJoint.cpp
+F:\kurui\trunk\HZ_DDZ\cocos2d\cocos\physics/CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\physics\CCPhysicsJoint.cpp)
+  CCPhysicsShape.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics\CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\physics\CCPhysicsBody.cpp)
+  CCPhysicsWorld.cpp
+  CCFileUtils.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\physics\CCPhysicsJoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\physics\CCPhysicsWorld.cpp)
+  CCGLView.cpp
+  CCImage.cpp
+  CCSAXParser.cpp
+  CCThread.cpp
+  CCGLViewImpl-desktop.cpp
+  CCApplication-win32.cpp
+  CCCommon-win32.cpp
+  CCDevice-win32.cpp
+  CCFileUtils-win32.cpp
+  CCStdC-win32.cpp
+  CCBatchCommand.cpp
+  CCCustomCommand.cpp
+f:\kurui\trunk\hz_ddz\cocos2d\cocos\platform\win32\CCFileUtils-win32.h(102): warning C4996: 'cocos2d::FileUtils::getFileData': 被声明为已否决 (..\platform\win32\CCFileUtils-win32.cpp)
+          F:\kurui\trunk\HZ_DDZ\cocos2d\cocos\platform/CCFileUtils.h(111) : 参见“cocos2d::FileUtils::getFileData”的声明
+  CCGLProgram.cpp
+  CCGLProgramCache.cpp
+  CCGLProgramState.cpp
+  CCGLProgramStateCache.cpp
+  ccGLStateCache.cpp
+  CCGroupCommand.cpp
+  CCMeshCommand.cpp
+  CCPrimitive.cpp
+  CCPrimitiveCommand.cpp
+  CCQuadCommand.cpp
+  CCRenderCommand.cpp
+..\renderer\CCMeshCommand.cpp(219): warning C4805: “!=”: 在操作中将类型“bool”与类型“GLboolean”混合不安全
+..\renderer\CCMeshCommand.cpp(242): warning C4805: “!=”: 在操作中将类型“bool”与类型“GLboolean”混合不安全
+  CCRenderer.cpp
+  ccShaders.cpp
+  CCTexture2D.cpp
+  CCTextureAtlas.cpp
+  CCTextureCache.cpp
+..\renderer\CCTextureCache.cpp(231): warning C4345: 行为更改: 使用 () 形式的初始值设定项构造的 POD 类型的对象将被默认初始化
+  CCTrianglesCommand.cpp
+  CCVertexIndexBuffer.cpp
+  CCVertexIndexData.cpp
+  LocalStorage.cpp
+  CocosGUI.cpp
+  UIShaders.cpp
+  UIButton.cpp
+  UICheckBox.cpp
+  UIDeprecated.cpp
+  UIEditBox.cpp
+  UIEditBoxImpl-win32.cpp
+  UIHBox.cpp
+  UIHelper.cpp
+  UIImageView.cpp
+  UILayout.cpp
+  UILayoutComponent.cpp
+  UILayoutManager.cpp
+  UILayoutParameter.cpp
+  UIListView.cpp
+  UILoadingBar.cpp
+  UIPageView.cpp
+  UIRelativeBox.cpp
+  UIRichText.cpp
+  UIScale9Sprite.cpp
+  UIScrollView.cpp
+  UISlider.cpp
+  UIText.cpp
+  UITextAtlas.cpp
+  UITextBMFont.cpp
+  UITextField.cpp
+  UIVBox.cpp
+  UIWebView.cpp
+  UIWidget.cpp
+  CCAction.cpp
+  CCActionCamera.cpp
+  CCActionCatmullRom.cpp
+  CCActionEase.cpp
+  CCActionGrid.cpp
+  CCActionGrid3D.cpp
+  CCActionInstant.cpp
+  CCActionInterval.cpp
+  CCActionManager.cpp
+  CCActionPageTurn3D.cpp
+  CCActionProgressTimer.cpp
+  CCActionTiledGrid.cpp
+  CCActionTween.cpp
+  CCAnimation.cpp
+  CCAnimationCache.cpp
+  CCAtlasNode.cpp
+  CCCamera.cpp
+  CCClippingNode.cpp
+  CCClippingRectangleNode.cpp
+  CCComponent.cpp
+  CCComponentContainer.cpp
+  CCDrawingPrimitives.cpp
+  CCDrawNode.cpp
+  CCFastTMXLayer.cpp
+  CCFastTMXTiledMap.cpp
+  CCFont.cpp
+  CCFontAtlas.cpp
+  CCFontAtlasCache.cpp
+  CCFontCharMap.cpp
+  CCFontFNT.cpp
+  CCFontFreeType.cpp
+  CCGLBufferedNode.cpp
+  CCGrabber.cpp
+  CCGrid.cpp
+  CCLabel.cpp
+  CCLabelAtlas.cpp
+  CCLabelBMFont.cpp
+  CCLabelTextFormatter.cpp
+  CCLabelTTF.cpp
+  CCLayer.cpp
+  CCLight.cpp
+  CCMenu.cpp
+  CCMenuItem.cpp
+  CCMotionStreak.cpp
+  CCNode.cpp
+  CCNodeGrid.cpp
+  CCParallaxNode.cpp
+  CCParticleBatchNode.cpp
+  CCParticleExamples.cpp
+  CCParticleSystem.cpp
+  CCParticleSystemQuad.cpp
+  CCProgressTimer.cpp
+  CCProtectedNode.cpp
+  CCRenderTexture.cpp
+  CCScene.cpp
+  CCSprite.cpp
+  CCSpriteBatchNode.cpp
+  CCSpriteFrame.cpp
+  CCSpriteFrameCache.cpp
+  CCTextFieldTTF.cpp
+  CCTileMapAtlas.cpp
+  CCTMXLayer.cpp
+  CCTMXObjectGroup.cpp
+  CCTMXTiledMap.cpp
+  CCTMXXMLParser.cpp
+  CCTransition.cpp
+  CCTransitionPageTurn.cpp
+  CCTransitionProgress.cpp
+  CCTweenFunction.cpp
+  复制了 1 个文件
+  复制了 1 个文件
+  复制了 4 个文件
+  复制了 1 个文件
+  复制了 1 个文件
+  复制了 2 个文件
+  复制了 1 个文件
+  复制了 2 个文件
+  复制了 2 个文件
+  复制了 2 个文件
+  复制了 2 个文件
+  复制了 2 个文件
+  复制了 2 个文件
+  复制了 6 个文件
+  复制了 2 个文件
+  复制了 1 个文件
+libchipmunk.lib(chipmunk.obj) : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
+     正在创建库 F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\libcocos2d.lib 和对象 F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\libcocos2d.exp
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+libjpeg.lib(jcapimin.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jcapimin.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jcapistd.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jcapistd.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jcarith.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jcarith.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jcparam.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jcparam.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jdatadst.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jdatadst.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jcinit.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jcinit.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jcmaster.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jcmaster.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jcmarker.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jcmarker.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jcmainct.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jcmainct.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jcprepct.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jcprepct.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jccoefct.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jccoefct.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jccolor.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jccolor.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jcsample.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jcsample.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jchuff.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jchuff.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jcdctmgr.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jcdctmgr.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jfdctfst.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jfdctfst.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jfdctflt.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jfdctflt.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jfdctint.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jfdctint.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jdapimin.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jdapimin.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jdapistd.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jdapistd.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jdarith.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jdarith.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jdatasrc.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jdatasrc.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jdmaster.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jdmaster.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jdinput.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jdinput.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jdmarker.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jdmarker.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jdhuff.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jdhuff.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jdmainct.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jdmainct.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jdcoefct.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jdcoefct.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jdpostct.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jdpostct.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jddctmgr.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jddctmgr.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jidctfst.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jidctfst.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jidctflt.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jidctflt.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jidctint.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jidctint.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jdsample.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jdsample.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jdcolor.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jdcolor.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jquant1.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jquant1.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jquant2.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jquant2.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jdmerge.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jdmerge.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jaricom.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jaricom.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jcomapi.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jcomapi.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jutils.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jutils.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jerror.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jerror.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jmemmgr.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jmemmgr.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpeg.lib(jmemnobs.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“libjpeg.lib(jmemnobs.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(chipmunk.obj) : warning LNK4099: 未找到 PDB“vc110_ib_1.pdb”(使用“libchipmunk.lib(chipmunk.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_1.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpConstraint.obj) : warning LNK4099: 未找到 PDB“vc110_ib_1.pdb”(使用“libchipmunk.lib(cpConstraint.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_1.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpDampedRotarySpring.obj) : warning LNK4099: 未找到 PDB“vc110_ib_2.pdb”(使用“libchipmunk.lib(cpDampedRotarySpring.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_2.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpDampedSpring.obj) : warning LNK4099: 未找到 PDB“vc110_ib_3.pdb”(使用“libchipmunk.lib(cpDampedSpring.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpGearJoint.obj) : warning LNK4099: 未找到 PDB“vc110_ib_4.pdb”(使用“libchipmunk.lib(cpGearJoint.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_4.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpGrooveJoint.obj) : warning LNK4099: 未找到 PDB“vc110_ib_5.pdb”(使用“libchipmunk.lib(cpGrooveJoint.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_5.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpPinJoint.obj) : warning LNK4099: 未找到 PDB“vc110_ib_6.pdb”(使用“libchipmunk.lib(cpPinJoint.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_6.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpPivotJoint.obj) : warning LNK4099: 未找到 PDB“vc110_ib_7.pdb”(使用“libchipmunk.lib(cpPivotJoint.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_7.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpRatchetJoint.obj) : warning LNK4099: 未找到 PDB“vc110_ib_8.pdb”(使用“libchipmunk.lib(cpRatchetJoint.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_8.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpRotaryLimitJoint.obj) : warning LNK4099: 未找到 PDB“vc110_ib_9.pdb”(使用“libchipmunk.lib(cpRotaryLimitJoint.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_9.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpSimpleMotor.obj) : warning LNK4099: 未找到 PDB“vc110_ib_1.pdb”(使用“libchipmunk.lib(cpSimpleMotor.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_1.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpSlideJoint.obj) : warning LNK4099: 未找到 PDB“vc110_ib_1.pdb”(使用“libchipmunk.lib(cpSlideJoint.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_1.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpArbiter.obj) : warning LNK4099: 未找到 PDB“vc110_ib_4.pdb”(使用“libchipmunk.lib(cpArbiter.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_4.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpArray.obj) : warning LNK4099: 未找到 PDB“vc110_ib_2.pdb”(使用“libchipmunk.lib(cpArray.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_2.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpBBTree.obj) : warning LNK4099: 未找到 PDB“vc110_ib_3.pdb”(使用“libchipmunk.lib(cpBBTree.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpBody.obj) : warning LNK4099: 未找到 PDB“vc110_ib_1.pdb”(使用“libchipmunk.lib(cpBody.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_1.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpCollision.obj) : warning LNK4099: 未找到 PDB“vc110_ib_2.pdb”(使用“libchipmunk.lib(cpCollision.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_2.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpHashSet.obj) : warning LNK4099: 未找到 PDB“vc110_ib_4.pdb”(使用“libchipmunk.lib(cpHashSet.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_4.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpPolyShape.obj) : warning LNK4099: 未找到 PDB“vc110_ib_7.pdb”(使用“libchipmunk.lib(cpPolyShape.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_7.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpShape.obj) : warning LNK4099: 未找到 PDB“vc110_ib_3.pdb”(使用“libchipmunk.lib(cpShape.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpSpace.obj) : warning LNK4099: 未找到 PDB“vc110_ib_1.pdb”(使用“libchipmunk.lib(cpSpace.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_1.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpSpaceComponent.obj) : warning LNK4099: 未找到 PDB“vc110_ib_4.pdb”(使用“libchipmunk.lib(cpSpaceComponent.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_4.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpSpaceHash.obj) : warning LNK4099: 未找到 PDB“vc110_ib_7.pdb”(使用“libchipmunk.lib(cpSpaceHash.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_7.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpSpaceQuery.obj) : warning LNK4099: 未找到 PDB“vc110_ib_2.pdb”(使用“libchipmunk.lib(cpSpaceQuery.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_2.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpSpaceStep.obj) : warning LNK4099: 未找到 PDB“vc110_ib_8.pdb”(使用“libchipmunk.lib(cpSpaceStep.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_8.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libchipmunk.lib(cpSpatialIndex.obj) : warning LNK4099: 未找到 PDB“vc110_ib_5.pdb”(使用“libchipmunk.lib(cpSpatialIndex.obj)”或在“F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\vc110_ib_5.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  libcocos2d.vcxproj -> F:\kurui\trunk\HZ_DDZ\proj.win32\Debug.win32\libcocos2d.dll
